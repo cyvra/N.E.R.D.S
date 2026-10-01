@@ -1,0 +1,10 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# C# / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
