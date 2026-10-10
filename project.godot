@@ -13,7 +13,11 @@ config_version=5
 config/name="juego"
 run/main_scene="res://scenes/player/player.tscn"
 config/features=PackedStringArray("4.3", "C#", "Forward Plus")
-config/icon="res://icon.svg"
+
+[autoload]
+
+DayManager="*res://scripts/world/DayManager.cs"
+WorldManager="*res://scripts/world/WorldManager.cs"
 
 [dotnet]
 
