@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b2p7r2nviii4l"
-path="res://.godot/imported/sprite-max-px-frames-36-rows-6-cols-6.png-8846afed6be8950a596f3fa5a0efa939.ctex"
+uid="uid://8lpwitw4ie1o"
+path="res://.godot/imported/AnimationSheet.png-8501a0f96503662a6d4e8e4b89ad6f8c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/sprite-max-px-frames-36-rows-6-cols-6.png"
-dest_files=["res://.godot/imported/sprite-max-px-frames-36-rows-6-cols-6.png-8846afed6be8950a596f3fa5a0efa939.ctex"]
+source_file="res://assets/sprites/AnimationSheet.png"
+dest_files=["res://.godot/imported/AnimationSheet.png-8501a0f96503662a6d4e8e4b89ad6f8c.ctex"]
 
 [params]
 
